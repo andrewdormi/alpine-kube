@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:edge
 
 ENV VERSION=2.13.1
 ENV BASE_URL="https://storage.googleapis.com/kubernetes-helm"
